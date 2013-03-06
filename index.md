@@ -1,3 +1,6 @@
+---
+title: Tao of Code Wiki
+---
 # Welcome to the Tao of Code WIki
 
 This is a git based wiki.
